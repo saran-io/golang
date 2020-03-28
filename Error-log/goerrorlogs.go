@@ -1,0 +1,2 @@
+Type - 			   Error message-										 							Sample - 																	Fix
+Unexported name - ./variables-with-initializers.go:15:2: cannot refer to unexported name fmt.print  - print.																	- Make sure check the caps properly	
