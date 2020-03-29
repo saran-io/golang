@@ -1,2 +1,3 @@
-Type - 			   Error message-										 							Sample - 																	Fix
-Unexported name - ./variables-with-initializers.go:15:2: cannot refer to unexported name fmt.print  - print.																	- Make sure check the caps properly	
+Date -      Type - 			   Error message-										 							Sample - 																	Fix
+	        Unexported name - ./variables-with-initializers.go:15:2: cannot refer to unexported name fmt.print  - print.																	- Make sure check the caps properly	
+03/29/2020	Arrays Error      -   invalid array index 2 (out of bounds for 2-element array)                       - array size is 2 buy you tried to access 3rd element   
