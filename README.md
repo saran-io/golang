@@ -4,10 +4,16 @@
 
 ##  Table of Contents:
 
+| S.No |    Topic     |                             Description |
+| :--- | :----------: | --------------------------------------: |
+| 1    | Basics of Go | This topic covers the high level basics |
+
 ## Installation: N/A
 ## Usage: TBD
 ## Contributing: TBD
 ## Credits:
+
+
 ## License:
 
 Author: Saranraj Santhanam
